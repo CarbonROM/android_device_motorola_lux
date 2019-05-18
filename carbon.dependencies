@@ -1,0 +1,24 @@
+[
+  {
+    "repository" : "CarbonROM/android_device_motorola_msm8916-common",
+    "target_path": "device/motorola/msm8916-common"
+  },
+  {
+    "repository" : "LineageOS/android_kernel_motorola_msm8916",
+    "target_path": "kernel/motorola/msm8916",
+    "revision"   : "lineage-15.1",
+    "remote"	 : "lineage"
+  },
+  {
+    "repository" : "LineageOS/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision"   : "lineage-15.1",
+    "remote"	 : "lineage"
+  },
+  {
+    "repository" : "LineageOS/android_external_bson",
+    "target_path": "external/bson",
+    "revision"   : "lineage-15.1",
+    "remote"	 : "lineage"
+  }
+]
